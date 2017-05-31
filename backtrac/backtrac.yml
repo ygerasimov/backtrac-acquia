@@ -1,0 +1,12 @@
+#
+# BackTrac configuration file.
+#
+api:
+  key: 97727bcXXXXXXXX17145b1bb707d7 # Replace with your own key
+  project_id: 3XX # Replace with your project's ID
+general:
+  uris:
+    - /    
+    - /whats-new    
+    - /events    
+    - /documents    
